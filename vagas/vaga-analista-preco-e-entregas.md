@@ -1,4 +1,4 @@
-# Processo para vagas de Analytics [Vaga Finalizada]
+# Processo para vagas de Analytics
 
 Olá, tudo bom?
 
