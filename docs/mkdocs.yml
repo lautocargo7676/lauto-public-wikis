@@ -1,0 +1,15 @@
+site_name: Docs TI L'auto
+theme:
+  name: material
+  favicon: assets/marca.png
+nav:
+  - Inicio: index.md
+  - Vagas:
+      - '[Finalizada] Vaga para pessoa Desenvolvedora': 'vagas/001.md'
+      - '[Finalizada] vaga-analytics': 'vagas/002.md'
+      - '[Finalizada] vaga-analista-preco-e-entregas': 'vagas/003.md'
+  - Tableau:
+      - 'Introdução ao Tableau - Parte 1': 'tableau/parte1/index.md'
+      - 'Introdução ao Tableau - Parte 2': 'tableau/parte2/index.md'
+      - 'Introdução ao Tableau - Parte 3': 'tableau/parte3/index.md'
+      - 'Introdução ao Tableau - Parte 4': 'tableau/parte4/index.md'
